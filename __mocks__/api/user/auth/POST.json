@@ -1,0 +1,19 @@
+{
+  "code": "ok",
+  "user": {
+    "id": 607,
+    "role": "ROLE_MODERATOR",
+    "email": "frontend@x5.ru",
+    "agency": null,
+    "active": true,
+    "login": "frontend@x5.ru",
+    "first_name": "Moderator_front",
+    "surname": "Moderator_front",
+    "patronymic": null,
+    "birthday": null,
+    "phone": null,
+    "mobile": "89998887777",
+    "time_to_change_password": 12708658,
+    "personal_data_consent": true
+  }
+}

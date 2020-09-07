@@ -1,0 +1,18 @@
+{
+  "agency": {
+    "address1": "string",
+    "address2": "string",
+    "bank_bik": "string",
+    "bank_name": "string",
+    "contact_name": "string",
+    "contact_phone": "string",
+    "corr_account_number": "string",
+    "id": 0,
+    "inn": "string",
+    "name": "string",
+    "phone": "string",
+    "recipient": "string",
+    "recipient_account_number": "string"
+  },
+  "code": "ok"
+}

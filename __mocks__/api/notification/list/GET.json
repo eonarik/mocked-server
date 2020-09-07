@@ -1,0 +1,149 @@
+{
+  "code": "ok",
+  "data": {
+    "items": [
+      {
+        "id": "069de84a-5c18-4ece-bc03-2e65686529c3",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-07-21T12:23:14.53668",
+        "content": "Cегмент \"Без агентства_ДОМАШНИЕ_сегмент апп\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "2cbcff8d-d0a7-4631-9f50-1b68e0e6e426",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-07-21T08:51:47.623426",
+        "content": "Cегмент \"Без агентства_NORDMILCH_Test constraint\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "5472c3c9-c8d8-4df2-8810-6c0f92c94589",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-07-20T10:30:20.948782",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/bbea0bac-9938-4443-b47f-8ea92c17c015\">test agency 1 2020-07-20</a>\" от модератора. Даты кампании: c 2020-07-20 до 2020-07-22. Автор: Test_user 1234 Makeev1230"
+      },
+      {
+        "id": "114b7942-b2ef-4ee5-94ea-31332fec3118",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-07-15T07:11:03.584408",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/490165ad-4c9a-49b0-9189-91fe60510263\">test agency для май таргета 2020-07-15</a>\" от агенства \"test agency\". Даты кампании: c 2020-07-15 до 2020-07-25. Автор: test Агентсвто"
+      },
+      {
+        "id": "4e5123a4-d912-4deb-8d52-f46f5383872e",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-07-14T11:06:47.546139",
+        "content": "Cегмент \"Без агентства_NORDMILCH_gg\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "52b3ca20-19d8-4133-92b5-90cc60834e7a",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-07-14T11:04:48.440546",
+        "content": "Cегмент \"Без агентства_NORDMILCH_Test constraint\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "a289ff4c-ef46-441b-899d-637725d4f6b2",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-07-13T13:14:18.32586",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/8f82c538-c786-46be-abf4-fb46b91d3914\">test agency mt sleep 2020-07-13</a>\" от модератора. Даты кампании: c 2020-07-13 до 2020-07-15. Автор: Test_user 1234 Makeev1230"
+      },
+      {
+        "id": "cda81636-24b5-4342-9080-9cf243165574",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-06-26T13:05:46.100229",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/bb56797c-18ed-44be-840c-40896cb45b04\">test agency notific 2020-06-26</a>\" от агенства \"test agency\". Даты кампании: c 2020-06-26 до 2020-07-03. Автор: test Агентсвто"
+      },
+      {
+        "id": "6a26b636-e0dd-44f8-ace9-4f3e87021a3a",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-06-26T12:49:45.738947",
+        "content": "Cегмент \"X5_NORDMILCH_Test default agency\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "7963604d-04f8-4f53-bf78-21352550d8c9",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-06-26T11:29:56.676917",
+        "content": "Cегмент \"X5_NORDMILCH_test agency short\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "4a2cb7e5-fd56-4faa-b888-5aae7c5e3c44",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-06-26T11:25:56.345036",
+        "content": "Cегмент \"X5_NORDMILCH_Test creating segm finalllll`1111!!1\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "4d419557-53ca-4977-8dbd-c6cd832706e7",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-06-26T11:17:26.690773",
+        "content": "Cегмент \"X5_NORDMILCH_Test creating segm999\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "9012ea96-fd88-4753-9a05-558a8b78d7cc",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-06-26T10:20:56.38156",
+        "content": "Cегмент \"Без агентства_ДОМАШНИЕ_wqeqweqw\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "1cb845fe-8d18-4dc7-afd3-60e1df07f889",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-06-26T10:05:26.526335",
+        "content": "Cегмент \"Без агентства_NORDMILCH_111\" посчитался. Его размер составил: 0."
+      },
+      {
+        "id": "bd5c9b17-5a18-4266-94d7-87c4423a89f1",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-06-25T15:26:24.745584",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/a75d1fb8-0b2b-421b-8d15-046ffac406f9\">test agency Test GA - 1823 2020-06-25</a>\" от агенства \"test agency\". Даты кампании: c 2020-06-25 до 2020-07-03. Автор: test Агентсвто"
+      },
+      {
+        "id": "a39b2f47-a549-4fe4-889a-c23899d754c2",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-06-25T15:15:53.905854",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/1098a519-b658-45b3-8fc8-c91fb244f5f3\">test agency hgjgdasdasd_GA 2020-06-25</a>\" от агенства \"test agency\". Даты кампании: c 2020-06-25 до 2020-07-05. Автор: test Агентсвто"
+      },
+      {
+        "id": "b4866e97-bf1a-4eed-9ec9-c7837fa0f4e8",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-06-25T14:38:20.416825",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/f80c05ae-1832-4f24-94c7-6764e2ea4fd3\">test agency test reqest GA 2020-06-26</a>\" от агенства \"test agency\". Даты кампании: c 2020-06-26 до 2020-07-03. Автор: test Агентсвто"
+      },
+      {
+        "id": "76f5931a-cb16-4615-9380-6bebfcca97da",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-05-29T13:18:26.881655",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/a4ce9cb8-0002-43b4-a71d-dd6ad04bda2a\">test agency 1 2020-05-29</a>\" от агенства \"test agency\". Даты кампании: c 2020-05-29 до 2020-05-31. Автор: test Агентсвто"
+      },
+      {
+        "id": "fb05c7b0-fbf4-4f9c-8957-962c714df191",
+        "type": "CAMPAIGN_CREATED",
+        "is_read": true,
+        "create_time": "2020-05-26T10:30:36.13315",
+        "content": "Создана новая заявка на рекламную кампанию \"<a href=\"http://audience.dev.bdmn.x5.ru/campaigns/30869b73-614b-47b9-8664-5e37fb112ed5\">kakaya raznitsa 1 2020-05-26</a>\" от модератора. Даты кампании: c 2020-05-26 до 2020-05-28. Автор: Test_user 1234 Makeev1230"
+      },
+      {
+        "id": "f1bfa134-89ea-493b-a1ef-9f3ce0c4f13d",
+        "type": "SEGMENT_CALCULATED",
+        "is_read": true,
+        "create_time": "2020-05-25T17:10:12.248906",
+        "content": "Cегмент \"Без агентства_ВКУСНАКАША_Test creating segm2\" посчитался. Его размер составил: 0."
+      }
+    ],
+    "total_pages": 4,
+    "total_elements": 72
+  }
+}
